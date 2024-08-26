@@ -1,3 +1,6 @@
+https://rol.redhat.com/
+
+
 # ansible_notes
 ansible_training_notes
 
